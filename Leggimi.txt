@@ -1,0 +1,32 @@
+------------------------------------
+Software Frasi (ver. 1.2)
+------------------------------------
+autore: Francesca Chiarelli
+email:  frachiar@tiscali.it
+sito:   http://internet.fchiarelli.it (sez. "Utilità")
+
+
+NOTE:
+-----
+Il programma va preso così com'è, potrebbe anche contenere degli errori: nessun programma è perfetto. 
+Chi trovasse errori o vuole mandarmi suggerimenti o vuole essere contattato nell'eventualità di un aggiornamento, mi scriva, che non mordo e non mando spam.
+
+CARATTERISTICHE:
+----------------
+Questo programma è stato pensato per farsi recitare una frase al giorno, all'accensione del pc. Basta mettere un collegamento nella cartella di Esecuzione automatica di Windows.
+In "frasi.txt" triovate frasi di esempio, copiate da:
+http://giavelli.interfree.it/no_stress.html
+ma ciascuno può personalizzare il file e quindi elencare solo le proprie frasi preferite.
+Il programma mostra una frase diversa ogni giorno (quindi al max se ne possono memorizzare 365) ma il programma accetta anche un PARAMETRO, corrispondente al numero di giorni di ripetizione della stessa frase. Per l'aggiunta del parametro si tratta di modificare le Proprietà del collegamento, aggiungendo il numero desiderato dopo il comando, preceduto da uno spazio.
+Il tasto [AGGIORNA] serve per far considerare le nuove frasi, se è stato modificato il file "frasi.txt".
+
+STORIA:
+--------------
+ver. 1.2 (05/09/07)
+- aggiunta la possibilità del parametro 
+- aggiunte queste note
+ver. 1.1 (24/08/07)
+- sistemato qualche dettaglio estetico
+ver. 1.0 (2003):
+- prima versione
+*********************************************************************
